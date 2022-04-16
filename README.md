@@ -1,4 +1,3 @@
-# [![waylon walker header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light.png)](https://waylonwalker.com)
 
 <p>
   <a href="http://www.oklaeeb.com/pics/zhengmian3.png"><img width="150" align='right' src="http://www.oklaeeb.com/pics/zhengmian3.png"></a>
